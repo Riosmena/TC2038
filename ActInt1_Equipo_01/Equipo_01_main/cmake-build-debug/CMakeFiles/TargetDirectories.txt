@@ -1,0 +1,3 @@
+/Users/maugarcia/Desktop/ActInt1_Equipo_01/Equipo_01_main/cmake-build-debug/CMakeFiles/ActInt1_Equipo_01.dir
+/Users/maugarcia/Desktop/ActInt1_Equipo_01/Equipo_01_main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maugarcia/Desktop/ActInt1_Equipo_01/Equipo_01_main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
